@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: in.ait._Maven_project.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s - in in.ait._Maven_project.AppTest
